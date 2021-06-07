@@ -1,6 +1,6 @@
 ## Demonstration
 
-Link to demo - [LINK](https://drive.google.com/file/d/1x_zV01n-ljWfHhH3gGzmYHVVbGZhNbh6/preview)f=
+[Link to demo](https://drive.google.com/file/d/1x_zV01n-ljWfHhH3gGzmYHVVbGZhNbh6/preview)
 
 ## Tech used
 - [OpenCV](https://opencv.org/)
