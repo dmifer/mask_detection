@@ -1,6 +1,6 @@
 ## Demonstration
 
-[![preview](video_preview.png)](https://drive.google.com/file/d/1x_zV01n-ljWfHhH3gGzmYHVVbGZhNbh6/preview)
+[![preview](video_preview.png)](https://drive.google.com/file/d/1Kig3UqI_s4yZwOpsAM3CNUGV15KMbDdp/view?usp=sharing)
 
 ## Tech used
 - [OpenCV](https://opencv.org/)
