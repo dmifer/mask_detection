@@ -1,8 +1,6 @@
 ## Demonstration
 
-<!DOCTYPE html><html><body>
-<iframe src="https://drive.google.com/file/d/1x_zV01n-ljWfHhH3gGzmYHVVbGZhNbh6/preview" width="640" height="480"></iframe>
-</body></html>
+<!DOCTYPE html><html><body><iframe src="https://drive.google.com/file/d/1x_zV01n-ljWfHhH3gGzmYHVVbGZhNbh6/preview" width="640" height="480"></iframe></body></html>
 
 ## Tech used
 - [OpenCV](https://opencv.org/)
